@@ -1,0 +1,6 @@
+{
+  "name": "Daily Task Logger",
+  "description": "A simple, standalone daily task logger to quickly enter tasks, set priorities, and track status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
